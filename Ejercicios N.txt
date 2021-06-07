@@ -67,6 +67,15 @@ Inicio ejercicio 6.txt
 	Leer total
 Fin algoritmo
 
+Inicio ejercicio 7.txt
+	definir n, aleat
+	aleat <- azar (10,50)
+	porcentaje <- aleat * 0.15
+	Escribir porcentaje
+	Total <- aleat - porcentaje
+	Escribir "el numero generado disminuido es"
+	Leer total
+Fin Algoritmo
 
 	
 
