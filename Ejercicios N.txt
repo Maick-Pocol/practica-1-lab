@@ -118,5 +118,17 @@ Inicio ejercicio 10.txt
 	Leer perimetro
 Fin algoritmo
 
-	
 
+Inicio ejercicio 11.txt
+	Definit metro, centimetro, yarda, pies, pulgadas
+	Escribir "escribir numero"
+	Leer centimetro
+	metro = centimetro * (1/100)
+	yarda = metro * (1.093/1)
+	pie = centimetro * (1/30.48)
+	pulgada = pie * (12 /1)
+	Escribir centimetro, "centimetro convertidos a metro es:," metro
+	Escribir Centimetro, "centimetro convertido a yarda es,", yarda
+	Escribir centimetro,"centimetro convertido a pie es,", pie
+	Escribir centimetro,"centimetro convertido a pulgada es," pulgada
+Fin algoritmo
