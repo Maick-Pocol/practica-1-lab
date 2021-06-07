@@ -142,6 +142,21 @@ Inicio ejercicio 12.txt
 	leer F
 Fin algoritmo
 
+Inicio ejercicio 13.txt
+	Definir Area, Volumen, Radio, Altura
+	Escribir "ingrese el radio del cilindro"
+	Leer radio
+	Escribir "ingrese la altura del cilindro"
+	Leer altura
+	Area = 3.1416 * (radio * radio)
+	Volumen = Area * Altura
+	Escribir "El volumen del cilindro es:", volumen
+	Escribir "El area del cilindro es: ", Area
+	Leer volumen
+	Leer Area
+Fin algoritmo
+
+
 
 
  
