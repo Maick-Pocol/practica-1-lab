@@ -1,1 +1,9 @@
 Inicio Ejercicio 1.txt
+	Escribir "ingrese numero"
+	Leer primer numero
+	escribir "segundo numero"
+	Leer segundo numero
+	Escribir "su suma es", primer numero + segundo numero
+	Leer total
+Fin
+
