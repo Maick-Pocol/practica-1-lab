@@ -102,7 +102,21 @@ Inicio ejercicio 9.txt
 	Leer valores cambiados
 Fin algoritmo
 
-	
+
+
+Inicio ejercicio 10.txt
+	Definir area, altura
+	Escribir "ingrese la base del rectangulo"
+	Leer base del rectangulo
+	Escribir "ingrese la altura del rectangulo"
+	Leer altura del rectangulo
+	Area <- base * altura
+	Perimetro <- 2*base + 2*altura
+	Esrcibir "el area del rectangulo es"
+	Escribir "el perimetro del rectangulo es"
+	Leer area
+	Leer perimetro
+Fin algoritmo
 
 	
 
