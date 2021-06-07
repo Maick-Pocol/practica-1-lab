@@ -208,4 +208,24 @@ Inicio ejercicio 16.txt
 	Finsi
 Fin algoritmo
 
+
+Inicio ejercicio 17.txt
+	Definir L1, L2, L3
+	Escribir "ingrese primer lado"
+	Leer L1
+	Escribir "ingrese segundo lado"
+	Leer l2
+	Escribir "ingrese tercer lado"
+	Leer L3
+ 	Si (L1==L2) y (L1==L3) entonces
+		Escribir "el triangulo es equilatero"
+	sino
+	si (L1==L2) o (L2==L3) o (L1==L3) entonces
+		Escribir "el triangulo es isosceles"
+	sino
+	escribir "el triangulo es escaleno"
+	Finsi
+Fin algoritmo
+
+	
 	
