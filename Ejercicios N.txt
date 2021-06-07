@@ -55,3 +55,18 @@ Inicio ejercicio 5.txt
 	escribir siguiente numero
 	leer siguiente numero
 Fin algoritmo
+
+
+Inicio ejercicio 6.txt
+	Definir n, aleat
+	aleat <- azar(200)
+	porcentaje <- aleat * 0.30
+	Escribir porcentaje
+	total <- aleat + porcentaje
+	Escribir "el numero generado aumentado es"
+	Leer total
+Fin algoritmo
+
+
+	
+
