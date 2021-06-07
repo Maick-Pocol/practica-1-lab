@@ -227,5 +227,18 @@ Inicio ejercicio 17.txt
 	Finsi
 Fin algoritmo
 
+
+Inicio ejercicio 18.txt
+	Definimos A, D
+	Escribir "ingrese un numero"
+	Leer A
+	Suma =0
+	Repetir mientras A > 0
+		D = A MOD 10
+		Suma = suma + D
+		A = A/10
+	Escribir "la suma de los digitos es:" suma
+Fin algoritmo
+
 	
 	
