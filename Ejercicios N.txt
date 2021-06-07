@@ -170,4 +170,16 @@ Inicio ejercicio 14.txt
 Fin algoritmo
 
 
- 
+Inicio ejercicio 15.txt
+	Definir n 
+	Escribir "ingrese numero"
+	Leer n
+	Si n == 0 entonces
+	     Escribir "el numero "n" es neutro"
+	sino 
+	     si n > 0 entonces
+		Escribir "el numero "n" es positivo"
+	sino
+		Escribir "el numero "n" es negativo"
+	Finsi
+Fin algoritmo
