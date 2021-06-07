@@ -88,5 +88,21 @@ Inicio ejercicio 8.txt
 	Leer promedio
 Fin algoritmo
 
+
+Inicio ejercicio 9.txt
+	Definir auxiliar A
+	Escribir "ingrese valor de A"
+	leer A
+	Escribir "ingrese valor de B"
+	Leer B
+	Auxiliar <- A
+	hacer -- A <- B
+	Escribir "ahora el valor de A es: B"
+	Escribir "ahora el valor de B es: A"
+	Leer valores cambiados
+Fin algoritmo
+
+	
+
 	
 
