@@ -139,4 +139,9 @@ Inicio ejercicio 12.txt
 	Leer C
 	F= C(5/9)+32
 	Escribir "Los grados celcius convertidos a grados fahrenheit es:", F
-Fin algoritmo 
+	leer F
+Fin algoritmo
+
+
+
+ 
