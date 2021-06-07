@@ -77,5 +77,16 @@ Inicio ejercicio 7.txt
 	Leer total
 Fin Algoritmo
 
+Inicio ejercicio 8.txt
+	Escribir "ingrese primer numero"
+	Leer primer numero
+	Escribir "ingrese segundo numero"
+	Leer segundo numero
+	Escribir "Ingrese tercer numero"
+	Leer tercer numero
+	Promedfio <- (primer numero + segundo numero + tercer numero)/3
+	Leer promedio
+Fin algoritmo
+
 	
 
