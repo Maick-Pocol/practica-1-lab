@@ -37,4 +37,15 @@ Inicio ejercico 3.txt
 Fina algoritmo
 
 
-	
+Inicio ejercicio 4.txt
+	Escribir "ingrese numero"
+	Leer numero
+	Cuadrado <- numero*numero
+	cubo <- numero*numero*numero
+	Escribir "el cuadrado de:" numero "es"
+	leer cuadrado de numero
+	Escribir "el cubo de:" numero "Es"
+	leer cubo de numero
+Fin algoritmo
+
+
