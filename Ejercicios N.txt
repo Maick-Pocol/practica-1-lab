@@ -7,3 +7,19 @@ Inicio Ejercicio 1.txt
 	Leer total
 Fin
 
+Inicio Ejercico 2.txt
+	Escribir "ingrese nombre de cualquier pais"
+	Leer nombre de pais
+	Escribir "ingrese nombre de capital"
+	Leer nombre de capital
+	si<nombre de pais> entonces
+	   seleccionar capital del páis
+	Sino
+	   si<nombre capital> entonces
+	      seleccionar nombre de pais
+	si <seleccion pais> entonces
+	leer "la capital de pais es capital"
+	sino 
+	  si<nombre de capital> entonces
+	Leer "el pais de capital es seleccion pais"
+Fin algoritmo
