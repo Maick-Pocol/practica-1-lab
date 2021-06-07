@@ -253,6 +253,28 @@ Inicio ejercicio 19.txt
 	Leer <<correcto>>
 	fin si
 Fin algoritmo
+
+
+Inicio ejercicio 20.txt
+	Definir N, dig1,dig2,dig3,dig4,dig5
+	escribir "ingrese numero de 5 digitos"
+	Leer N
+	Si N >= 10000 y num <=99999 entonces
+	dig1= (N/10000) mod 10
+	dig2= (N/1000) mod 10
+	dig3= (N/100) mod 10
+	dig4 = (N/10) mod 10
+	dig5= (N mod 10)mod 10
+	SINO
+		escribir " numero ingresado no valido"
+
+	si dig1 = dig5 y dig2 = dig4 entonces
+		Escribir "el numero es capicua"
+	sino
+		escribir "el numero no es capicua"
+	Finsi
+Fin algoritmo
+
  
 
 	
