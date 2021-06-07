@@ -156,7 +156,18 @@ Inicio ejercicio 13.txt
 	Leer Area
 Fin algoritmo
 
-
+Inicio ejercicio 14.txt
+	Definir A,b
+	Escribir "ingrese primer numero"
+	Leer A
+	Escribir "ingrese segundo numero"
+	Leer B
+	Si A mod A ==0 entonces
+	     Escribir "el numero "A" es divisible entre ", B
+	sino
+	     Escribir "el numero "A" no es divisible entre", B
+	Finsi
+Fin algoritmo
 
 
  
