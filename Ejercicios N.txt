@@ -183,3 +183,29 @@ Inicio ejercicio 15.txt
 		Escribir "el numero "n" es negativo"
 	Finsi
 Fin algoritmo
+
+
+Inicio ejercicio 16.txt
+	Definir A,B,C
+	Escribir "ingrese primer numero"
+	Leer A
+	Escribir "ingrese segundo numero"
+	Leer B
+	Escribir "ingrese tercer numero"
+	Leer c
+	Si A > B entonces
+		si A > C
+		Escribir "el numero "A" es el mayor de los tres"
+	sino
+		Escribir "el numero "C" es elmayor de los tres"
+		finsi
+	sino
+		si B > C entonces
+			Escribir "el numero "B" es el mayor de los tres"
+		sino
+			Escribir "el numero "C" es el mayor de los tres"
+		Finsi
+	Finsi
+Fin algoritmo
+
+	
