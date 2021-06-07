@@ -23,3 +23,18 @@ Inicio Ejercico 2.txt
 	  si<nombre de capital> entonces
 	Leer "el pais de capital es seleccion pais"
 Fin algoritmo
+
+
+Inicio ejercico 3.txt
+	Escribir "ingrese un numero"
+	Leer  numero
+	doble <- num*2
+	triple <- num*3
+	Escribir "el doble de:",numero, "es" doble
+	leer doble
+	escribir "el triple de:",numero, "es" triple
+	Leer triple
+Fina algoritmo
+
+
+	
