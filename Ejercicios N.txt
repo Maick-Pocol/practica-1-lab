@@ -48,4 +48,10 @@ Inicio ejercicio 4.txt
 	leer cubo de numero
 Fin algoritmo
 
-
+Inicio ejercicio 5.txt
+	Escribir "ingrese numero"
+	Leer numero
+	hacer <- numero +1
+	escribir siguiente numero
+	leer siguiente numero
+Fin algoritmo
