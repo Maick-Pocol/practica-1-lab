@@ -240,5 +240,20 @@ Inicio ejercicio 18.txt
 	Escribir "la suma de los digitos es:" suma
 Fin algoritmo
 
+
+Inicio ejercicio 19.txt
+	Definir n,aleat como entero
+	aleat <- azar (1000)+1
+	Si aleat 5 == 0 entonces
+		Escribir "el numero "n" es multiplo de 5"
+	SiNo
+		Escribir "el numero "n" no es multiplo de 5"
+	Si Aleat < 125 entonces
+		Escribir "el numero generado es <<correcto>>"
+	Leer <<correcto>>
+	fin si
+Fin algoritmo
+ 
+
 	
 	
