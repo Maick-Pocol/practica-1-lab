@@ -132,3 +132,11 @@ Inicio ejercicio 11.txt
 	Escribir centimetro,"centimetro convertido a pie es,", pie
 	Escribir centimetro,"centimetro convertido a pulgada es," pulgada
 Fin algoritmo
+
+Inicio ejercicio 12.txt
+	Definir C,F
+	Escribir "escribe los grados celcius"
+	Leer C
+	F= C(5/9)+32
+	Escribir "Los grados celcius convertidos a grados fahrenheit es:", F
+Fin algoritmo 
